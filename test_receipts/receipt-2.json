@@ -1,0 +1,10 @@
+{
+    "retailer": "Walmart",
+    "purchaseDate": "2024-02-14",
+    "purchaseTime": "15:30",
+    "items": [
+      {"shortDescription": "Milk", "price": "3.00"},
+      {"shortDescription": "Bread", "price": "2.50"}
+    ],
+    "total": "5.50"
+  }

@@ -1,0 +1,12 @@
+{
+    "retailer": "7-Eleven",
+    "purchaseDate": "2023-06-01",
+    "purchaseTime": "15:15",
+    "items": [
+      {"shortDescription": "Coffee", "price": "1.99"},
+      {"shortDescription": "Donut", "price": "1.25"},
+      {"shortDescription": "Sandwich", "price": "3.50"},
+      {"shortDescription": "Water", "price": "1.00"}
+    ],
+    "total": "7.74"
+  }

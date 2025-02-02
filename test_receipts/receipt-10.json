@@ -1,0 +1,9 @@
+{
+    "retailer": "A",
+    "purchaseDate": "2023-01-01",
+    "purchaseTime": "00:00",
+    "items": [
+      {"shortDescription": "X", "price": "0.01"}
+    ],
+    "total": "0.01"
+  }

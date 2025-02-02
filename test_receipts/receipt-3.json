@@ -1,0 +1,10 @@
+{
+    "retailer": "Target",
+    "purchaseDate": "2023-12-31",
+    "purchaseTime": "14:59",
+    "items": [
+      {"shortDescription": "Pepsi 12oz ", "price": "4.99"},
+      {"shortDescription": "Chips", "price": "3.00"}
+    ],
+    "total": "7.99"
+  }

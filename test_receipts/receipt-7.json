@@ -1,0 +1,11 @@
+{
+    "retailer": "PetCo",
+    "purchaseDate": "2023-11-11",
+    "purchaseTime": "13:00",
+    "items": [
+      {"shortDescription": "Cat Food 5lb", "price": "12.00"},
+      {"shortDescription": "Dog Toy ", "price": "8.50"},
+      {"shortDescription": "Fish Tank", "price": "25.00"}
+    ],
+    "total": "45.50"
+  }

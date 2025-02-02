@@ -1,0 +1,10 @@
+{
+    "retailer": "Whole Foods",
+    "purchaseDate": "2023-04-16",
+    "purchaseTime": "10:00",
+    "items": [
+      {"shortDescription": "Organic Apples", "price": "5.99"},
+      {"shortDescription": "Almond Milk", "price": "3.49"}
+    ],
+    "total": "9.48"
+  }

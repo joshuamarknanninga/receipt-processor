@@ -1,0 +1,10 @@
+{
+    "retailer": "Macy's & Co.",
+    "purchaseDate": "2023-05-01",
+    "purchaseTime": "12:30",
+    "items": [
+      {"shortDescription": "Men's Shirt XL", "price": "29.99"},
+      {"shortDescription": "Women's Dress", "price": "49.99"}
+    ],
+    "total": "79.98"
+  }

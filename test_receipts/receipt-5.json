@@ -1,0 +1,11 @@
+{
+    "retailer": "Costco-Wholesale",
+    "purchaseDate": "2023-09-03",
+    "purchaseTime": "14:30",
+    "items": [
+      {"shortDescription": "Toilet Paper 24pk", "price": "18.99"},
+      {"shortDescription": "Eggs Large", "price": "4.99"},
+      {"shortDescription": "Milk Gal", "price": "2.99"}
+    ],
+    "total": "26.97"
+  }

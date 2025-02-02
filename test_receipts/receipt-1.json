@@ -1,0 +1,10 @@
+{
+    "retailer": "BestBuy#123",
+    "purchaseDate": "2023-03-15",
+    "purchaseTime": "13:45",
+    "items": [
+      {"shortDescription": "4K HDMI Cable", "price": "19.99"},
+      {"shortDescription": "Wireless Mouse", "price": "29.99"}
+    ],
+    "total": "49.98"
+  }

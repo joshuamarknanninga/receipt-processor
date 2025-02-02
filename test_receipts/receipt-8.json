@@ -1,0 +1,10 @@
+{
+    "retailer": "Starbucks",
+    "purchaseDate": "2023-07-04",
+    "purchaseTime": "16:00",
+    "items": [
+      {"shortDescription": "Latte Grande", "price": "4.75"},
+      {"shortDescription": "Croissant", "price": "3.25"}
+    ],
+    "total": "8.00"
+  }
