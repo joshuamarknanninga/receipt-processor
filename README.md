@@ -1,6 +1,3 @@
-Here's a comprehensive README you can use (copy-paste ready):
-
-```markdown
 # Receipt Processor API
 
 A RESTful API service built with Go, Docker, and MongoDB to process receipts and calculate reward points based on specific rules.
@@ -108,6 +105,10 @@ This project represents a significant learning experience in building a producti
    - Official MongoDB Go driver usage
    - Document-oriented design patterns
    - Containerized database management
+
+   <https://streamable.com/hublu5>
+
+   <https://streamable.com/11l9uc>
 
 **Challenges Overcome:**
 - Implementing complex validation rules
